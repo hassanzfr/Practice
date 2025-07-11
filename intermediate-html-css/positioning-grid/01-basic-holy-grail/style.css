@@ -3,6 +3,7 @@ html {
   height: 100%;
   margin: 0;
 }
+/* This is the CSS for the Holy Grail layout using CSS Grid */
 
 .container {
   text-align: center;
